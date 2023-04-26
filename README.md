@@ -2,7 +2,7 @@
 
 An app which lets you watch trailers and save movies easily
 
-![alt text](https://drive.google.com/file/d/1j7kV_sFIdYa7RGU3zAae-uNaAp9-SC-l/view)
+<img src="https://user-images.githubusercontent.com/28794954/234600041-52435000-294a-43c2-bf83-1c2005165c31.gif" width="350" height="700"/>
 
 ## Notes
 
