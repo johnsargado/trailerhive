@@ -2,6 +2,8 @@
 
 An app which lets you watch trailers and save movies easily
 
+![alt text](https://drive.google.com/file/d/1j7kV_sFIdYa7RGU3zAae-uNaAp9-SC-l/view)
+
 ## Notes
 
 Run with the stable version of Flutter
